@@ -5,6 +5,9 @@ function isEvenNumber(num) {
   // Перевірити, чи число num є парним
   // Повернути результат перевірки (true або false) як результат функції
 }
+{
+  ea;
+}
 
 console.log("Завдання 1 ====================================");
 console.log("isEvenNumber(10)", isEvenNumber(10)); // Виведе: true
